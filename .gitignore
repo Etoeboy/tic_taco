@@ -136,3 +136,8 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
+activate.ps1
+deco_demo.py
+first_app.py
+folderxml.py
+Miles_Tic_Tac_toe.py
